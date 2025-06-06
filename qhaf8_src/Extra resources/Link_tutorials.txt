@@ -1,0 +1,8 @@
+Tutorial for beginner R
+https://education.rstudio.com/learn/beginner/
+
+Tutorial for beginners OpenSesame
+https://osdoc.cogsci.nl/3.3/tutorials/beginner/
+
+Book/tutorial Open Science
+https://arca-dpss.github.io/manual-open-science/
